@@ -3,9 +3,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/kaeteu/kaeteu/main/header.gif" width="100%" alt="Anime Header">
   
-  <h1>✨ Artem "Sato" Xexv | Xeronite Founder ✨</h1>
+  <h1>✨ Artem "Sato" Xexv ✨</h1>
   
-  <p><i>"Developer | Anime Enthusiast | Creator of Xeronite"</i></p>
+  <p><i>"Developer | Anime Enthusiast | Founder of Xeronite"</i></p>
 
   <img src="https://count.getloli.com/get/@:xexv?theme=booru-lewd" alt="Visitor Count">
 
@@ -22,37 +22,19 @@
 
 > Привет! Я **Sato**, создатель и вдохновитель уютного Discord-сообщества **Xeronite**. Я увлекаюсь программированием, люблю аниме и стремлюсь создавать качественные проекты. 
 
-*   🛡️ **Owner:** [Xeronite Discord Server](https://discord.gg/xexv)
+*   🛡️ **Project:** Xeronite (Discord Server)
 *   🌸 **Interests:** Anime, Software Engineering, UI/UX Design.
 *   📫 **Email:** [xexv69@gmail.com](mailto:xexv69@gmail.com)
 
 ---
 
-### 🌐 Соцсети / Socials
+### 🌐 Контакты / Socials
 
 <div align="left">
-  <a href="https://discord.gg/xexv">
-    <img src="https://img.shields.io/badge/Discord-Xeronite-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  <a href="https://t.me/xexv1">
+    <img src="https://img.shields.io/badge/Telegram-@xexv1-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://vk.com/kaeteu">
-    <img src="https://img.shields.io/badge/VK-Sato-2CA5E0?style=for-the-badge&logo=vk&logoColor=white" alt="VK">
-  </a>
-  <a href="https://t.me/kaeteu">
-    <img src="https://img.shields.io/badge/Telegram-@kaeteu-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://steamcommunity.com/id/xexv/">
-    <img src="https://img.shields.io/badge/Steam-Sato-171a21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
-  </a>
-</div>
-
----
-
-### 📊 Статистика / GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xexv&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=xexv&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/Discord-@xexv-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </div>
 
 ---
